@@ -1,17 +1,17 @@
 {
-  "checked_at": "2026-10-17T04:07:14.880134-07:00",
+  "checked_at": "2026-10-17T04:08:17.570682-07:00",
   "event": "Kartal vs Ostapenko",
   "prices": [
     {
       "player": "Sonay Kartal",
-      "buy_yes": 0.57,
-      "sell_yes": 0.56,
+      "buy_yes": 0.55,
+      "sell_yes": 0.54,
       "market_updated": "2026-10-16T11:25:40.999138Z"
     },
     {
       "player": "Jelena Ostapenko",
-      "buy_yes": 0.44,
-      "sell_yes": 0.43,
+      "buy_yes": 0.46,
+      "sell_yes": 0.45,
       "market_updated": "2026-10-16T11:25:40.999138Z"
     }
   ],
