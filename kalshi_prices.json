@@ -1,20 +1,20 @@
 {
-  "checked_at": "2026-10-17T02:58:42.318748-07:00",
-  "event": "Geerlings Martinez vs Curmi",
+  "checked_at": "2026-10-17T03:36:37.962491-07:00",
+  "event": "Zverev vs Davidovich Fokina",
   "prices": [
     {
-      "player": "Ariana Geerlings Martinez",
-      "buy_yes": 1.0,
-      "sell_yes": 0.0,
-      "market_updated": "2026-10-17T09:32:02.150173Z"
+      "player": "Alexander Zverev",
+      "buy_yes": 0.08,
+      "sell_yes": 0.07,
+      "market_updated": "2026-10-16T09:15:27.368522Z"
     },
     {
-      "player": "Francesca Curmi",
-      "buy_yes": 1.0,
-      "sell_yes": 0.0,
-      "market_updated": "2026-10-17T09:32:02.150173Z"
+      "player": "Alejandro Davidovich Fokina",
+      "buy_yes": 0.93,
+      "sell_yes": 0.92,
+      "market_updated": "2026-10-16T09:15:27.368522Z"
     }
   ],
-  "combined_buy_cost": 2.0,
+  "combined_buy_cost": 1.01,
   "fees_included": false
 }
