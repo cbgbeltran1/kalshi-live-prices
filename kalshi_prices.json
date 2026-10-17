@@ -1,20 +1,20 @@
 {
-  "checked_at": "2026-10-17T02:03:31.958399-07:00",
+  "checked_at": "2026-10-17T02:56:06.680209-07:00",
   "event": "Geerlings Martinez vs Curmi",
   "prices": [
     {
       "player": "Ariana Geerlings Martinez",
-      "buy_yes": 0.82,
-      "sell_yes": 0.81,
-      "market_updated": "2026-10-16T20:11:00.192265Z"
+      "buy_yes": 1.0,
+      "sell_yes": 0.0,
+      "market_updated": "2026-10-17T09:32:02.150173Z"
     },
     {
       "player": "Francesca Curmi",
-      "buy_yes": 0.19,
-      "sell_yes": 0.18,
-      "market_updated": "2026-10-16T20:11:00.192265Z"
+      "buy_yes": 1.0,
+      "sell_yes": 0.0,
+      "market_updated": "2026-10-17T09:32:02.150173Z"
     }
   ],
-  "combined_buy_cost": 1.01,
+  "combined_buy_cost": 2.0,
   "fees_included": false
 }
