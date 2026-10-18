@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-17T20:24:07.436614-07:00",
+  "checked_at": "2026-10-17T20:25:34.806605-07:00",
   "event": "Nebraska vs Oregon",
   "prices": [
     {
@@ -10,11 +10,11 @@
     },
     {
       "player": "Nebraska",
-      "buy_yes": 0.37,
-      "sell_yes": 0.36,
+      "buy_yes": 0.36,
+      "sell_yes": 0.35,
       "market_updated": "2026-10-11T19:06:00.92233Z"
     }
   ],
-  "combined_buy_cost": 1.02,
+  "combined_buy_cost": 1.01,
   "fees_included": false
 }
